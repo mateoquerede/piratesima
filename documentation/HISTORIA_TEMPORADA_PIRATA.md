@@ -2,19 +2,19 @@
 
 ## Concepto
 
-El archipiélago atraviesa una tregua frágil. Ciudades piratas comercian entre sí mientras la Corona española expande su presencia desde Saint Martin. Su máximo jefe no busca negociar: quiere destruir la piratería y quedarse con las islas. En medio de la disputa, alguien roba páginas de los diarios de Black Beard y las usa para encontrar una ruta marítima que no aparece en ninguna carta conocida.
+El archipiélago atraviesa una tregua frágil. Ciudades piratas comercian entre sí mientras la Corona española expande su presencia desde San Martín. Su máximo jefe, el **Capitán General de la Armada Real de las Indias, Don Lautaro Montoya**, no busca negociar: quiere destruir la piratería y quedarse con las islas. Viene desde España y todavía no ha llegado al archipiélago. En medio de la disputa, alguien roba páginas del diario de **Barbanegra** y las usa para buscar algo más que una ruta.
 
-Los jugadores llegan a Bahía Serruchos buscando trabajo y terminan descubriendo que la ruta conduce a algo más peligroso que un tesoro: una red de señales y antiguos faros capaz de controlar el paso seguro entre islas. Si una sola facción domina esa red, podrá decidir quién comercia, quién navega y quién queda aislado. Ante la amenaza de la Corona, las tripulaciones rivales tendrán que unirse en un sindicato pirata para defender su hogar.
+Los jugadores llegan a Bahía Serruchos buscando trabajo y terminan descubriendo que las páginas del diario de Barbanegra describen una red de señales y antiguos faros capaz de alterar corrientes, convocar tormentas y abrir rutas que deberían permanecer ocultas. La leyenda dice que Barbanegra no encontró esa red: hizo un pacto con algo que habita bajo el archipiélago y dejó en sus páginas la forma de despertarlo o someterlo. Si alguien reúne e interpreta todos los fragmentos, podría gobernar el mar; si interpreta mal el ritual, podría desatar una fuerza que trague las islas. Ante la amenaza de la Corona, las tripulaciones rivales tendrán que coordinarse de manera tácita para defender su hogar, sin fundar una nueva organización.
 
-La temporada gira alrededor de una pregunta: **¿quién debería controlar el mar: una corona, una alianza de capitanes o nadie?**
+La temporada empieza como una carrera entre grupos por acumular páginas y ganar poder. Poco a poco, los jugadores descubren que ninguna tripulación puede resolver el misterio sola y que la amenaza real exige cooperación. La temporada gira alrededor de una pregunta: **¿quién debería controlar el mar: una corona, una alianza de capitanes o nadie?**
 
 ## Tono y reglas narrativas
 
 - Aventura pirata con humor seco, misterio marítimo y decisiones con consecuencias.
 - Ninguna facción es completamente confiable. Los jugadores pueden colaborar con rivales sin tener que cambiar de bando para cada misión.
-- El mapa y sus nombres se conservan; las relaciones, historias y ocupantes descritos aquí son contenido nuevo de La Trecima.
+- Los lugares aparecen con nombres en español; las relaciones, historias y ocupantes descritos aquí son contenido nuevo de La Trecima.
 - Las ubicaciones son propuestas narrativas. Confirmar coordenadas, accesos y estructuras en el mapa antes de colocar NPC o misiones.
-- Las misiones pueden compartirse mediante FTB Quests. Monedas, barcos y permisos pertenecen a la party según las reglas del servidor.
+- Las misiones pueden compartirse mediante FTB Quests. Monedas, barcos y permisos pertenecen al grupo o alianza según las reglas del servidor.
 
 ## Facciones
 
@@ -22,91 +22,91 @@ La temporada gira alrededor de una pregunta: **¿quién debería controlar el ma
 
 Red informal y dividida de capitanes, tripulaciones, comerciantes y puertos que se resisten a entregar el control de las rutas a una sola potencia. Ante la amenaza de la Corona, sus miembros empiezan a coordinarse y luchar juntos sin anunciar una alianza formal: la unión queda tácita.
 
-**Presencia propuesta:** Port Carina, Nassau, Port Royale y refugios menores.
+**Presencia propuesta:** Puerto Carina, Nasáu, Puerto Real y refugios menores.
 
 ### Corona Española
 
-Fuerza naval y administrativa que opera desde Saint Martin. Su máximo jefe está decidido a destruir la piratería y apropiarse de las islas. Algunos oficiales descubren que sus órdenes amenazan también a la población.
+Fuerza naval y administrativa que opera desde San Martín. Su jefe, el Capitán General de la Armada Real de las Indias Don Lautaro Montoya, viene desde España para destruir la piratería y apropiarse de las islas. Algunos oficiales descubren que sus órdenes amenazan también a la población.
 
-**Presencia propuesta:** Saint Martin, Isla del Muerto y puestos de vigilancia.
+**Presencia propuesta:** San Martín, Isla del Muerto y puestos de vigilancia.
 
 ### La Flota del Velo
 
 Grupo antagonista original formado por antiguos corsarios, contrabandistas y desertores. Su comandante compra diarios, mapas y lealtades. No quiere conquistar cada isla: busca controlar los faros y cobrar por cada barco que cruce el archipiélago.
 
-**Presencia propuesta:** Blackwater, Red Beard's Respite, Marauder Haven y Davy Jones' Retreat.
+**Presencia propuesta:** Aguas Negras, Refugio de Barba Roja, Refugio del Saqueador y Retiro de Davy Jones.
 
 ### Gente de las Islas
 
 Pescadores, mecánicos, curanderos, buscadores de tesoros y familias que viven lejos de las grandes ciudades. Pagan el precio de los bloqueos y pueden ayudar a los jugadores independientemente de su facción.
 
-**Presencia propuesta:** Dead Men's Cove, Full Moon Refuge, Blackwater Isle, Pirate's Retreat y asentamientos pequeños.
+**Presencia propuesta:** Cala de los Muertos, Refugio de Luna Llena, Isla de Aguas Negras, Retiro del Pirata y asentamientos pequeños.
 
 ## Personajes principales
 
-### Nicolas Londero — borracho de Port Carina
+### Nicolas Londero — borracho de Puerto Carina
 
-Borrachín que vive en Port Carina; nadie sabe bien qué hace ahí. Tiene conocimientos que no encajan con su aspecto, pero la locura lo hizo perderse y sus recuerdos salen a saltos. Da a los recién llegados una instrucción breve: hablar con Franco Arroyo en el astillero para conseguir los primeros encargos. Cuando la trama avanza, revela que sobrevivió a una expedición que buscaba los faros del Velo, aunque recuerda la historia en fragmentos y no tiene ganas de contarla dos veces.
+Borrachín que vive en Puerto Carina; nadie sabe bien qué hace ahí. Tiene conocimientos que no encajan con su aspecto, pero la locura lo hizo perderse y sus recuerdos salen a saltos. Da a los recién llegados una instrucción breve: hablar con Franco Arroyo en el astillero para conseguir los primeros encargos. Cuando la trama avanza, revela que sobrevivió a una expedición que buscaba los faros del Velo, aunque recuerda la historia en fragmentos y no tiene ganas de contarla dos veces.
 
-**Ubicación propuesta:** Port Carina.
+**Ubicación propuesta:** Puerto Carina.
 
 **Función:** bienvenida, orientación hacia los primeros trabajos y pistas fragmentarias entre capítulos.
 
 ### Franco Arroyo — maestro del astillero
 
-Ingeniero naval y administrador del catálogo de barcos. Serio, justo con los precios y tajante con las reglas: cada party mantiene un solo barco activo; no hay ensamblajes libres para saltarse el catálogo. Conserva los planos, registra las compras y coordina recuperación y reparación.
+Ingeniero naval y administrador del catálogo de barcos. Serio, justo con los precios y tajante con las reglas: cada grupo mantiene un solo barco activo; no hay ensamblajes libres para saltarse el catálogo. Conserva los planos, registra las compras y coordina recuperación y reparación.
 
-**Ubicación propuesta:** Port Carina, cerca del muelle principal.
+**Ubicación propuesta:** Puerto Carina, cerca del muelle principal.
 
 **Función:** compra, selección y reparación de barcos; tutorial del sistema de navegación; misiones de rescate de cascos.
 
 ### Capitán Andrés Tres Clavos Pittovino — enlace de la Liga
 
-Capitán veterano que intenta mantener unidos a los capitanes de la Liga. Le importan más los puertos abiertos que las banderas y oculta lo mucho que teme otra guerra.
+Capitán veterano de la Liga. Cansado de la piratería, quiere jubilarse y desaparecer. La Almirante del Velo siempre creyó que, por ser la pirata más poderosa y reconocida, heredaría naturalmente su puesto y liderazgo. Andrés, en cambio, anuncia que entregará el mando de las rutas al grupo que reúna todas las páginas de Barbanegra. La oferta rompe las expectativas de Nyx y enciende su rivalidad con Andrés: él quiere piratería libre; ella quiere controlar todas las rutas. Cuando Andrés ve que la competencia por su sucesión divide a la Liga justo cuando la Corona planea exterminar a todos los piratas, comprende que entregar el mando fue un error y retira la oferta.
 
-**Ubicación propuesta:** Port Royale.
+**Ubicación propuesta:** Puerto Real.
 
 **Función:** entrega el arco principal y coordina a las tripulaciones rivales cuando empieza la guerra contra la Corona.
 
-### Comandante Flavia Francisco Obregón Rojas — oficial de Saint Martin
+### Comandante Flavia Francisco Obregón Rojas — oficial de San Martín
 
-Oficial de la Corona Española, disciplinada y práctica. Al principio sigue órdenes y ofrece una tregua limitada contra la Flota del Velo. Hacia el final, al conocer el plan del jefe de la Corona para destruir la piratería y ocupar las islas, decide no ayudarlo. Se aparta del conflicto y deja que los piratas resuelvan la batalla sin intervenir.
+Oficial de la Corona Española, disciplinada y práctica. Al principio cumple sus deberes en San Martín, pero Don Lautaro no aparece durante la campaña: sigue en España reuniendo una flota para la invasión. Cuando recibe órdenes para proteger su llegada, Flavia se niega, revela a los capitanes dónde y cuándo desembarcará Don Lautaro y luego desaparece. Su deserción deja al jefe de la Corona sin la protección que esperaba.
 
-**Ubicación propuesta:** Saint Martin.
+**Ubicación propuesta:** San Martín.
 
-**Función:** misiones de investigación, escolta y negociación; hacia el desenlace se niega a cumplir las órdenes del jefe de la Corona y se retira de la historia, sin unirse a los piratas ni ayudarlos en la batalla.
+**Función:** misiones de investigación y escolta; al final traiciona a la Corona al negarse a proteger a Don Lautaro, revela su punto de llegada y desaparece antes de la batalla. No se une a los piratas ni combate.
 
 ### David Rolando Marea — cartógrafo desaparecido
 
-Cartógrafo que reconstruía las páginas perdidas de los diarios de Black Beard. Desapareció antes de entregar su mapa completo. Sus marcas aparecen en naufragios, cuevas y libros de cuentas.
+Cartógrafo que reconstruía en sus propias páginas los fragmentos perdidos del diario de Barbanegra. Desapareció antes de entregar su mapa completo. Sus notas están repartidas entre naufragios, cuevas y libros de cuentas.
 
-**Ubicación inicial:** no aparece al principio; sus rastros comienzan en Dead Men's Cove.
+**Ubicación inicial:** no aparece al principio; sus rastros comienzan en Cala de los Muertos.
 
 **Función:** misterio central y guía indirecta de exploración.
 
 ### La Almirante del Velo — antagonista
 
-Líder de la Flota del Velo. Su nombre real se mantiene oculto hasta el desenlace: Nyx Jana Bonny Aitara. Primero compite con los jugadores por el control de los faros y parece otra amenaza. Cuando la Corona revela su plan de exterminio y conquista, Nyx pone su flota junto a los capitanes de la Liga para combatir al jefe español. No es una figura sobrenatural: su poder viene de la información, la logística y el miedo.
+Líder de la Flota del Velo y pirata más reconocida y poderosa del archipiélago, aunque nadie conoce su identidad real hasta el desenlace: Nyx Jana Bonny Aitara. Durante toda la historia se opone a Andrés: él defiende la libertad de navegación; ella quiere controlar cada ruta y usar el poder de las páginas para gobernar el mar. La llegada de la Corona amenaza también sus ambiciones, así que combate a Don Lautaro sin abandonar su objetivo de dominar los faros. No es una figura sobrenatural; su poder viene de la información, la logística y el miedo.
 
-**Ubicación propuesta:** base móvil entre Blackwater y Davy Jones' Retreat.
+**Ubicación propuesta:** base móvil entre Aguas Negras y Retiro de Davy Jones.
 
-**Función:** rival recurrente que termina como aliada decisiva; su identidad y su decisión de luchar junto a la Liga se revelan al final.
+**Función:** rival persistente de Andrés durante toda la historia y aspirante al control del archipiélago. Como nadie conoce su identidad real, desafía sus planes bajo el título de Almirante del Velo. Revela su nombre al final y lucha contra la Corona por interés propio, no por una alianza con la Liga.
 
 ## Personajes secundarios e interactivos
 
 | Personaje | Ubicación propuesta | Uso |
 |---|---|---|
-| **Mara «Dos Monedas»** | Nassau | Contrabandista; intercambios, rumores y trabajos opcionales de sigilo. |
+| **Mara «Dos Monedas»** | Nasáu | Contrabandista; intercambios, rumores y trabajos opcionales de sigilo. |
 | **Padre Anselmo** | Isla del Muerto | Custodia registros de naufragios y ofrece misiones de recuperación. |
-| **Berto Candela** | Full Moon Refuge | Farero que detecta señales falsas y enseña a interpretar los códigos luminosos. |
-| **Yara Salitre** | Dead Man's Shore | Buceadora; contratos para recuperar carga perdida y explorar restos hundidos. |
-| **Sargento Mateo Cruz** | Saint Martin | Reclutador de la guarnición; contratos de patrulla y escolta. |
-| **Doctora Amalia Vélez** | Port Royale | Comerciante de pociones; prepara suministros y encarga ingredientes de distintas islas. |
-| **Ciro «Mala Suerte»** | Shipwreck Cove | Corredor del mercado negro; ofrece rumores útiles y trabajos con riesgo de reputación. |
-| **Ada Viento** | Port Carina | Navegante; explica destinos, señales y desbloqueos de rutas. |
-| **Viejo Nereo** | Davy Jones' Retreat | Guardián de historias; ofrece pistas sobre la Flota del Velo, pero exige pruebas. |
-| **Bruna y León** | Blackwater Isle | Hermanos pescadores; misiones cooperativas de abastecimiento y defensa del muelle. |
-| **Pascual Risco** | Marauder Haven | Excontramaestre; conoce las defensas de un capitán rival y ofrece una ruta alternativa. |
+| **Berto Candela** | Refugio de Luna Llena | Farero que detecta señales falsas y enseña a interpretar los códigos luminosos. |
+| **Yara Salitre** | Costa del Hombre Muerto | Buceadora; contratos para recuperar carga perdida y explorar restos hundidos. |
+| **Sargento Mateo Cruz** | San Martín | Reclutador de la guarnición; contratos de patrulla y escolta. |
+| **Doctora Amalia Vélez** | Puerto Real | Comerciante de pociones; prepara suministros y encarga ingredientes de distintas islas. |
+| **Ciro «Mala Suerte»** | Cala del Naufragio | Corredor del mercado negro; ofrece rumores útiles y trabajos con riesgo de reputación. |
+| **Ada Viento** | Puerto Carina | Navegante; explica destinos, señales y desbloqueos de rutas. |
+| **Viejo Nereo** | Retiro de Davy Jones | Guardián de historias; ofrece pistas sobre la Flota del Velo, pero exige pruebas. |
+| **Bruna y León** | Isla de Aguas Negras | Hermanos pescadores; misiones cooperativas de abastecimiento y defensa del muelle. |
+| **Pascual Risco** | Refugio del Saqueador | Excontramaestre; conoce las defensas de un capitán rival y ofrece una ruta alternativa. |
 
 ## NPC de relleno
 
@@ -115,8 +115,8 @@ Usar variantes visuales y diálogos breves para dar vida a muelles y calles sin 
 - Estibadores que comentan precios, barcos y rumores recientes.
 - Pescadores que hablan del clima, capturas extrañas y rutas cerradas.
 - Guardias españoles que dan advertencias distintas según el avance de la historia.
-- Marineros de permiso en Port Royale y Nassau.
-- Contrabandistas que cambian de conversación según la reputación de la party.
+- Marineros de permiso en Puerto Real y Nasáu.
+- Contrabandistas que cambian de conversación según la reputación del grupo.
 - Habitantes que piden ayuda sencilla: encontrar una caja, entregar una nota o recuperar una herramienta.
 - Tripulantes heridos o náufragos que describen, sin revelar todo, los encuentros con la Flota del Velo.
 
@@ -124,104 +124,86 @@ Los NPC de relleno no deben dar recompensas repetibles de alto valor. Sus línea
 
 ## Historia principal y misiones
 
-Las misiones siguientes forman una campaña inicial de ocho capítulos. Nombres de misión son provisionales y se pueden editar en FTB Quests.
+La temporada se divide en **tres fases globales**. El administrador decide cuándo habilitar cada fase para acompasar el avance de los grupos. Las misiones y capítulos son propuestas para FTB Quests; los nombres pueden cambiar.
 
-### Prólogo — Un puerto para empezar
+### Fase 1 — La carrera por las páginas
 
-**Inicio:** Port Carina. Bahía Serruchos queda como punto de llegada al archipiélago.
+**Estado:** rivalidad abierta entre grupos.
+**Inicio:** Puerto Carina y Puerto Real.
 
-1. **«Despertá, marinero»** — Nicolas Londero da la bienvenida en Port Carina y, entre balbuceos, indica que hablen con Franco Arroyo en el astillero para conseguir los primeros encargos.
-2. **«El precio de navegar»** — Franco explica el astillero, las parties, el catálogo y la regla de un barco activo por party.
-3. **«Primer encargo»** — Franco encarga entregar suministros entre Port Carina y Port Royale para ganar confianza y fondos iniciales.
+Nicolas Londero dirige a los jugadores a Franco Arroyo para sus primeros encargos. Después, el Capitán Andrés Tres Clavos Pittovino anuncia que quiere jubilarse y desaparecer de la piratería. Nyx siempre había supuesto que, como pirata más reconocida y poderosa, heredaría naturalmente su puesto. Andrés sorprende a todos y promete entregar el mando de las rutas al grupo que reúna e interprete todas las páginas de Barbanegra. La decisión inicia la rivalidad abierta: cada grupo compite por el mando, mientras Nyx combate a Andrés por romper la sucesión que daba por segura y por defender una piratería libre que ella considera caótica.
 
-**Desbloquea:** astillero, navegación inicial y contacto con la Liga de Capitanes Libres.
+1. **Prólogo — «Un puerto para empezar»**
+   - «Despertá, marinero»: Nicolas da la bienvenida y señala a Franco.
+   - «El precio de navegar»: Franco explica el astillero y la regla de un barco activo por grupo.
+   - «Primer encargo»: transportar suministros entre Puerto Carina y Puerto Real.
+2. **Capítulo I — «Páginas arrancadas»**
+   - Andrés encarga encontrar a David Rolando Marea.
+   - Explorar Cala de los Muertos y Costa del Hombre Muerto para hallar pistas incompletas.
+3. **Capítulo II — «El precio del silencio»**
+   - Investigar la compra de páginas en Nasáu, Cala del Naufragio y Aguas Negras.
+   - Elegir si entregar información a Andrés, venderla a Ciro o guardarla.
+4. **Capítulo III — «Una bandera en San Martín»**
+   - La Comandante Flavia Francisco Obregón Rojas ofrece una tregua limitada contra la Flota del Velo.
+   - Investigar un convoy y recuperar órdenes sobre los faros.
 
-### Capítulo I — Páginas arrancadas
+**Revelación de fase:** las páginas están repartidas entre islas, naufragios y manos distintas. Cada fragmento contiene marcas que se mueven con la luna y frases cifradas que parecen escritas por más de una mano. La Corona también busca los faros.
 
-**Inicio:** Port Royale.
+**Cierre de fase:** hito de servidor que registra pistas aportadas por los grupos participantes. El grupo con más hallazgos puede recibir prestigio o una recompensa no exclusiva; no obtiene propiedad única de la historia ni bloquea a los demás. No hace falta que cada grupo encuentre una página. Cuando el administrador habilita la Fase 2, todos pueden seguir, incluso grupos atrasados.
 
-1. **«El libro que no llegó»** — el Capitán Andrés Tres Clavos Pittovino encarga encontrar a David Rolando Marea.
-2. **«Huellas en Dead Men's Cove»** — investigar el escondite del cartógrafo y recuperar una hoja mojada.
-3. **«Lo que se llevó la marea»** — Yara Salitre guía una recuperación en Dead Man's Shore.
+### Fase 2 — Ninguna tripulación tiene el mapa completo
 
-**Revelación:** las páginas fueron compradas por intermediarios de Blackwater.
+**Estado:** la competencia continúa, pero compartir información se vuelve necesario.
+**Inicio:** Isla de la Flota Hundida y Refugio de Luna Llena.
 
-### Capítulo II — El precio del silencio
+Los grupos descubren que cada página describe una parte de un ritual: nombres de mareas, constelaciones, palabras de mando y advertencias. Juntas revelan que Barbanegra encontró bajo Isla del Muerto el Corazón de la Marea, una entidad antigua atada al archipiélago. El diario contiene un método para invocarla y torcer corrientes, tormentas y rutas a voluntad; también un sello capaz de mantenerla dormida. Ninguna página por sí sola indica cuál es cuál. David Rolando Marea sobrevive, pero tampoco conserva un relato completo. El avance depende de reunir hallazgos de distintos grupos y contrastarlos.
 
-**Inicio:** Nassau y Shipwreck Cove.
+1. **Capítulo IV — «La flota bajo el agua»**
+   - Explorar Isla de la Flota Hundida y recuperar partes del diario.
+   - «Carga al límite»: volver al astillero; recuperar el casco no devuelve carga hundida.
+2. **Capítulo V — «Refugio de luna llena»**
+   - Berto Candela enseña el código de señales.
+   - Encontrar a David en Refugio de Luna Llena; sus recuerdos y páginas confirman que los fragmentos se complementan.
+3. **Capítulo VI — «La costa tomada»**
+   - Investigar el bloqueo de Aguas Negras, buscar la ruta de Pascual Risco por Refugio del Saqueador y enfrentar al capitán avanzado en Refugio de Barba Roja.
+   - Decidir entre sabotear la Flota del Velo o negociar con parte de su tripulación.
+4. **Capítulo VII — «El Retiro de Davy Jones»**
+   - Viejo Nereo ayuda a traducir las últimas marcas.
+   - Reunir las pruebas de varios grupos y descubrir que el Corazón de la Marea puede obedecer a quien complete el ritual o destruir las islas si se rompe el sello.
 
-1. **«Dos monedas por un nombre»** — Mara pide favores antes de revelar quién compró la hoja.
-2. **«Mercancía sin manifiesto»** — seguir un cargamento hasta Shipwreck Cove.
-3. **«La caja equivocada»** — elegir entre devolver un registro a la Liga o vendérselo a Ciro.
+**Giro:** Andrés reconoce que su promesa de entregar el mando dividió a la Liga en bandos y fue un error: la Corona planea exterminar a todos los piratas, no solo a quien controle las páginas. Nyx sigue queriendo el poder para sí, pero la invasión amenaza también su dominio. La información compartida vale más que una colección individual, y la única forma de evitar que ambos poderes esclavicen el archipiélago es proteger el sello.
 
-**Revelación:** la Flota del Velo está comprando información sobre antiguos faros.
+**Unión tácita:** grupos que antes competían intercambian pistas, coordinan rutas y protegen puertos. No se crea una nueva facción ni se exige una alianza formal. Nyx sigue enfrentada a Andrés y mantiene oculta su identidad; ofrece combatir a la Corona porque su invasión amenaza sus propios planes.
 
-**Consecuencia:** la decisión abre diálogos o descuentos, pero no bloquea la historia principal.
+**Cierre de fase:** misión cooperativa de servidor para reconstruir el Sello de la Marea a partir de las páginas reunidas y confirmar que Don Lautaro ya cruza el océano. El sello sirve para desviar las naves españolas y hacerlas naufragar; no invoca ni despierta al Corazón de la Marea. Al completarse, el administrador habilita la Fase 3. La contribución puede venir de cualquier grupo; no exigir que cada jugador posea todas las páginas.
 
-### Capítulo III — Una bandera en Saint Martin
+### Fase 3 — La última señal
 
-**Inicio:** Saint Martin.
-
-1. **«Audiencia con la Corona»** — la Comandante Flavia Francisco Obregón Rojas ofrece una tregua limitada.
-2. **«Un convoy sin escolta»** — proteger provisiones destinadas a las islas.
-3. **«Órdenes selladas»** — recuperar órdenes que prueban que un oficial está filtrando rutas.
-
-**Revelación:** la Corona también busca las señales de los faros y piensa ocuparlos.
-
-### Capítulo IV — La flota bajo el agua
-
-**Inicio:** Isle of the Sunken Fleet.
-
-1. **«Luces bajo la quilla»** — encontrar una señal encendida en un naufragio.
-2. **«El casco de David»** — registrar el barco perdido del cartógrafo y recuperar su diario.
-3. **«Carga al límite»** — volver al astillero y aprender que casco, carga y propiedad son registros distintos; rescatar el casco no recupera mercancía hundida.
-
-**Revelación:** David sigue vivo y se esconde en Full Moon Refuge.
-
-### Capítulo V — Refugio de luna llena
-
-**Inicio:** Full Moon Refuge.
-
-1. **«El farero que no duerme»** — Berto Candela enseña el código de señales.
-2. **«Nadie vio entrar a David»** — seguir pistas de vecinos y explorar la torre.
-3. **«El mapa de tres luces»** — David explica cómo la Flota del Velo falsifica señales para atraer barcos a emboscadas.
-
-**Revelación:** la base principal está cerca de Red Beard's Respite; la Almirante del Velo busca activar la red completa durante la temporada de tormentas.
-
-### Capítulo VI — La costa tomada
-
-**Inicio:** Blackwater y Blackwater Isle.
-
-1. **«Impuesto de paso»** — la Flota cobra por circular entre Blackwater y las islas cercanas.
-2. **«Risco conoce la entrada»** — Pascual ofrece una ruta a través de Marauder Haven.
-3. **«Cortar la cadena»** — sabotear suministros o negociar con parte de la tripulación rival.
-4. **«Prueba de mando»** — derrotar al capitán de avanzada en Red Beard's Respite.
-
-**Revelación:** la Almirante no busca el oro de Black Beard; quiere convertir los faros en una aduana privada.
-
-### Capítulo VII — Davy Jones' Retreat
-
-**Inicio:** Davy Jones' Retreat.
-
-1. **«La ruta que no existe»** — Nereo traduce las últimas marcas de David.
-2. **«El diario de Black Beard»** — recuperar las páginas restantes de una cámara inundada.
-3. **«Sin barco no hay salida»** — reparar el barco activo y preparar la party para la travesía final.
-
-**Revelación:** la Corona prepara una ofensiva para destruir la piratería, ocupar las islas y tomar los faros. Solo si los capitanes dejan de lado sus rivalidades y actúan juntos podrán detenerla.
-
-### Capítulo VIII — La última señal
-
+**Estado:** misión final de todo el servidor.
 **Inicio:** Isla del Muerto y el faro final.
 
-1. **«Una bandera para cada puerto»** — reunir a las tripulaciones rivales, los puertos y los habitantes de las islas; nadie proclama una alianza, pero todos acuerdan luchar contra la amenaza común.
-2. **«El nombre tras el Velo»** — la Almirante revela que se llama Nyx Jana Bonny Aitara y ofrece su flota para defender el archipiélago junto a los capitanes.
-3. **«La última orden»** — la Comandante Flavia se niega a ejecutar el plan de su jefe y se aparta del conflicto; no entrega información ni participa en la batalla.
-4. **«La noche de los faros»** — los capitanes y sus aliados defienden los puntos de señal mientras la Corona lanza su ataque.
-5. **«Ni corona ni cadenas»** — los capitanes, unidos de hecho, y la Flota del Velo vencen al jefe de la Corona Española, decidido a destruir la piratería y quedarse con las islas.
+El **Capitán General de la Armada Real de las Indias, Don Lautaro Montoya**, viene desde España al frente de su flota para exterminar la piratería y quedarse con las islas. No apareció antes porque dirigía la campaña desde España y cruzaba el océano con refuerzos. Flavia rechaza las órdenes de proteger su desembarco, revela que Don Lautaro llegará a la hacienda de Isla del Muerto y desaparece antes de que arribe. La Almirante revela que es **Nyx Jana Bonny Aitara** y combate a la Corona, pero sigue disputándole a Andrés el control del Corazón de la Marea. Los piratas ya reconstruyeron el Sello de la Marea con los papeles de Barbanegra; al activarlo mientras la flota se acerca, corrientes falsas y niebla desvían muchos barcos españoles hacia arrecifes y los hacen naufragar. Por eso Don Lautaro alcanza la hacienda con pocos barcos de escolta.
 
-**Final canónico:** las facciones piratas dejan de luchar entre sí y coordinan su defensa sin crear una organización formal. Con ayuda de Nyx y su flota, derrotan al jefe de la Corona y frustran su intento de exterminar la piratería y apoderarse del archipiélago. Flavia se mantiene al margen tras negarse a ayudarlo. Los faros quedan bajo custodia compartida de los puertos, no de una sola potencia.
+1. **«Una bandera para cada puerto»** — reunir tripulaciones rivales y habitantes para preparar la defensa común.
+2. **«El nombre tras el Velo»** — Nyx revela su identidad y ofrece su flota para derrotar a la Corona; deja claro que no renuncia a dominar las rutas.
+3. **«La última orden»** — Flavia revela la hacienda y el momento del desembarco de Don Lautaro, rechaza protegerlo y desaparece.
+4. **«La noche de los faros»** — misión de servidor: activar el Sello de la Marea reconstruido con los papeles de Barbanegra. El sello crea corrientes falsas y niebla; muchos barcos españoles se pierden y naufragan en los arrecifes antes de llegar a la hacienda.
+5. **«Ni corona ni cadenas»** — misión final de servidor en la hacienda de Isla del Muerto. Don Lautaro llega con pocos barcos de escolta. Todos los grupos pueden participar. El objetivo final es **derrotar y matar al Capitán General de la Armada Real de las Indias, Don Lautaro Montoya**; completar la misión solo cuando el jefe muera. Al morir, su ejército se desorganiza y la invasión fracasa.
 
-La victoria no borra los conflictos entre capitanes ni convierte a Flavia en pirata. La cooperación tácita abre una tregua frágil y nuevas historias sobre cuánto durará la unidad.
+**Final canónico:** las tripulaciones vencen a Don Lautaro y detienen la conquista. La coordinación entre piratas queda tácita; cada capitán conserva su independencia. Nyx no renuncia a sus ambiciones y Andrés se niega a entregarle el mando. El Corazón de la Marea vuelve a quedar sellado bajo custodia compartida de los puertos. Flavia desaparece sin unirse a los piratas.
+
+La victoria no borra los conflictos entre capitanes ni acaba con la rivalidad entre Andrés y Nyx. Abre una tregua frágil y deja espacio para nuevas temporadas.
+
+## Control de fases y progreso multijugador
+
+- **Apertura manual:** el administrador habilita Fase 1, Fase 2 y Fase 3 cuando decide. Completar una misión puede marcar el hito narrativo, pero no abrir automáticamente la fase siguiente.
+- **Progreso por grupo:** FTB Teams y FTB Quests registran misiones y recompensas de cada grupo según configuración. Definir explícitamente cuáles son compartidas por grupo y cuáles son individuales.
+- **Fases globales, avance local:** al abrir una fase, sus misiones quedan disponibles para todos los grupos. Equipos rezagados pueden ponerse al día; no exigir que todos terminen una fase anterior para desbloquear la siguiente.
+- **Páginas como pistas, no llave exclusiva:** representar cada página con una pista o progreso de misión que no se consume al entregarse. Varios grupos pueden encontrar copias o registrar el mismo hallazgo; la historia avanza por el conjunto de evidencias del servidor, no porque un jugador retenga todos los objetos.
+- **Competencia sin bloqueo:** dar prestigio, títulos o recompensas limitadas no esenciales por llegar primero. No permitir que robo, muerte, desconexión o pérdida de objetos eliminen páginas necesarias ni bloqueen a otros grupos.
+- **Hitos de servidor:** al cerrar cada fase, el administrador verifica las contribuciones y activa el siguiente grupo de quests. Anunciar la apertura y el objetivo global a todos los jugadores.
+- **Batalla final única:** abrir la misión global solo en Fase 3, coordinar aparición del jefe para una batalla conjunta y completar el hito final únicamente al confirmar su muerte. Evitar que un grupo pueda cerrar la historia antes de que el evento esté abierto.
+- **Incorporación tardía:** jugadores nuevos pueden aceptar las misiones de la fase actualmente abierta y recibir un resumen de pistas previas; no necesitan recuperar páginas ya obtenidas por otros.
 
 ## Misiones secundarias
 
@@ -229,43 +211,43 @@ La victoria no borra los conflictos entre capitanes ni convierte a Flavia en pir
 
 - **«Casco a la deriva»** — recuperar una embarcación perdida. Se conserva la propiedad; la carga hundida no reaparece.
 - **«Madera de repuesto»** — conseguir materiales de reparación.
-- **«Cambio de pabellón»** — seleccionar otro barco de la party y llevar el anterior a resguardo.
+- **«Cambio de pabellón»** — seleccionar otro barco del grupo y llevar el anterior a resguardo.
 - **«Prueba de mar»** — navegar por una ruta marcada sin abandonar el barco asignado.
 
 ### Tesoros y exploración
 
-- **«La marca de Nassau»** — interpretar un mapa dividido en tres pistas.
-- **«El escondite de Isla del Blackeye»** — localizar una reserva que no pertenece a ninguna facción.
-- **«El campamento vacío»** — investigar Pirate's Retreat y descubrir por qué su tripulación desapareció.
-- **«La cueva de Dead Men's Cove»** — encontrar marcas de David y entregar una copia a la Liga.
+- **«La marca de Nasáu»** — interpretar un mapa dividido en tres pistas.
+- **«El escondite de Isla del Ojo Negro»** — localizar una reserva que no pertenece a ninguna facción.
+- **«El campamento vacío»** — investigar Retiro del Pirata y descubrir por qué su tripulación desapareció.
+- **«La cueva de Cala de los Muertos»** — encontrar marcas de David y entregar una copia a la Liga.
 
 ### Habitantes y comercio
 
-- **«Pescado antes del amanecer»** — ayudar a Bruna y León a abastecer Blackwater Isle.
+- **«Pescado antes del amanecer»** — ayudar a Bruna y León a abastecer Isla de Aguas Negras.
 - **«Frascos para el viaje»** — reunir ingredientes para Amalia Vélez.
-- **«La cuenta de Shipwreck Cove»** — recuperar un libro de deudas para Ciro o destruirlo.
-- **«Mensajes de Port Carina»** — repartir correspondencia para Ada Viento.
+- **«La cuenta de Cala del Naufragio»** — recuperar un libro de deudas para Ciro o destruirlo.
+- **«Mensajes de Puerto Carina»** — repartir correspondencia para Ada Viento.
 
 ### Amenazas y encuentros
 
 - **«El campeón de arena»** — desafío opcional en la arena; recompensa cosmética o de prestigio.
 - **«Las armas del arsenal»** — rastrear un cargamento de armas especiales relacionado con la expansión del conflicto.
-- **«El vigía de Red Beard's Respite»** — vencer o sobornar a un explorador de la Flota del Velo.
+- **«El vigía del Refugio de Barba Roja»** — vencer o sobornar a un explorador de la Flota del Velo.
 
 ## Progresión y recompensas
 
-- Usar FTB Quests para capítulos, objetivos de exploración, combates y entregas.
+- Usar FTB Quests para capítulos, objetivos de exploración, combates y entregas. Configurar visibilidad y desbloqueo por fase para que las misiones nuevas aparezcan solo cuando el administrador abra esa fase.
 - Dar recompensas de misión en forma de monedas, objetos de utilidad, acceso a comerciantes y reputación; evitar entregar barcos duplicables como objetos.
-- Mantener compras, selección y reparación de barcos bajo control del astillero y asociadas al UUID de party.
+- Mantener compras, selección y reparación de barcos bajo control del astillero y asociadas al UUID del grupo.
 - Dar a cada capítulo un desbloqueo claro: contacto nuevo, destino, contrato o información para la historia.
 - Hacer que fallar una misión opcional cueste tiempo o reputación, no el acceso permanente al arco principal.
-- Revisar que recompensas de party no se multipliquen por cada miembro al completar una misión compartida.
+- Revisar que recompensas de grupo no se multipliquen por cada miembro al completar una misión compartida.
 
 ## Uso de Easy NPC
 
 - **Diálogos:** bienvenida de una sola vez, conversaciones repetibles, rumores y elecciones de misión.
 - **Condiciones por jugador:** diferenciar primeras visitas y progreso individual sin cambiar el estado global del NPC.
-- **Estados compartidos:** usarlos solo cuando el cambio deba afectar a toda la party o al mundo.
+- **Estados compartidos:** usarlos solo cuando el cambio deba afectar a todo el grupo o al mundo.
 - **Acciones:** abrir diálogos, iniciar comercio o señalar comandos controlados; no confiar en mensajes de texto como único registro de una compra, recompensa o transición crítica.
 - **Persistencia:** probar progreso, límites de ejecución y recompensas tras reinicios del servidor antes de publicar misiones.
 
@@ -274,30 +256,30 @@ La victoria no borra los conflictos entre capitanes ni convierte a Flavia en pir
 | Lugar | Contenido |
 |---|---|
 | Bahía Serruchos | Punto de llegada al archipiélago. |
-| Port Carina | Nicolas Londero, Franco Arroyo, Ada Viento y astillero. |
-| Port Royale | Capitán Andrés Tres Clavos Pittovino, tablón principal, comerciantes y tripulación de relleno. |
-| Nassau | Mara Dos Monedas y comercio/contrabando. |
-| Shipwreck Cove | Ciro Mala Suerte y trabajos de mercado negro. |
-| Saint Martin | Comandante Flavia Francisco Obregón Rojas, Mateo Cruz y guarnición española. |
-| Dead Men's Cove | Primeras pistas de David Rolando Marea. |
-| Full Moon Refuge | Berto Candela y reaparición de David. |
-| Isle of the Sunken Fleet | Naufragios, rescates de carga y contratos de casco. |
-| Blackwater / Blackwater Isle | Bloqueo de la Flota del Velo y misiones de los pescadores. |
-| Red Beard's Respite | Base avanzada y encuentro con el capitán rival. |
-| Marauder Haven | Ruta alternativa y contacto con Pascual Risco. |
-| Davy Jones' Retreat | Diario, cámara inundada y ruta final. |
+| Puerto Carina | Nicolas Londero, Franco Arroyo, Ada Viento y astillero. |
+| Puerto Real | Capitán Andrés Tres Clavos Pittovino, tablón principal, comerciantes y tripulación de relleno. |
+| Nasáu | Mara Dos Monedas y comercio/contrabando. |
+| Cala del Naufragio | Ciro Mala Suerte y trabajos de mercado negro. |
+| San Martín | Comandante Flavia Francisco Obregón Rojas, Mateo Cruz y guarnición española. |
+| Cala de los Muertos | Primeras pistas de David Rolando Marea. |
+| Refugio de Luna Llena | Berto Candela y reaparición de David. |
+| Isla de la Flota Hundida | Naufragios, rescates de carga y contratos de casco. |
+| Aguas Negras / Isla de Aguas Negras | Bloqueo de la Flota del Velo y misiones de los pescadores. |
+| Refugio de Barba Roja | Base avanzada y encuentro con el capitán rival. |
+| Refugio del Saqueador | Ruta alternativa y contacto con Pascual Risco. |
+| Retiro de Davy Jones | Diario, cámara inundada y ruta final. |
 | Isla del Muerto | Misión final y conclusión de la red de faros. |
-| Isla del Blackeye | Tesoro secundario y exploración. |
-| Dead Man's Shore | Recuperación de restos y carga hundida. |
-| Pirate's Retreat | Campamento opcional y desaparición de una tripulación. |
-| Blackwater | Centro rival, control de paso y contratos de liberación. |
-| Port Carina expandida | Pista sobre los faros y área para ampliar el astillero. |
+| Isla del Ojo Negro | Tesoro secundario y exploración. |
+| Costa del Hombre Muerto | Recuperación de restos y carga hundida. |
+| Retiro del Pirata | Campamento opcional y desaparición de una tripulación. |
+| Aguas Negras | Centro rival, control de paso y contratos de liberación. |
+| Puerto Carina expandido | Pista sobre los faros y área para ampliar el astillero. |
 
 ## Pendiente antes de producción
 
 - Confirmar en el mundo las ubicaciones exactas, dimensiones y rutas navegables.
 - Confirmar qué edificios del mapa están realmente presentes; reubicar propuestas si la construcción difiere.
-- Revisar los registros y diarios de Black Beard del mapa para distinguir objetos decorativos de contenido que se pueda entregar o coleccionar.
+- Revisar los registros y diarios de Barbanegra del mapa para distinguir objetos decorativos de contenido que se pueda entregar o coleccionar.
 - Colocar primero solo Nicolas, Franco y los NPC necesarios para el prólogo.
-- Implementar el resto de personajes y capítulos gradualmente, validando diálogos, condiciones, recompensas y progreso de party en el mundo de pruebas.
-- Conservar nombres de lugares del mapa. Mantener personajes, facciones, diálogos y trama como contenido original de La Trecima.
+- Implementar el resto de personajes y capítulos gradualmente, validando diálogos, condiciones, recompensas y progreso de grupo en el mundo de pruebas.
+- Usar de forma consistente los nombres españoles de los lugares en diálogos, misiones y documentación; mantener personajes, facciones y trama como contenido original de La Trecima.
