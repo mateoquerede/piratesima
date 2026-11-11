@@ -2,7 +2,7 @@
 
 ## Concepto
 
-El archipiélago atraviesa una tregua frágil. Ciudades piratas comercian entre sí mientras la Corona española expande su presencia desde San Martín. Su máximo jefe, el **Capitán General de la Armada Real de las Indias, Don Lautaro Montoya**, no busca negociar: quiere destruir la piratería y quedarse con las islas. Viene desde España y todavía no ha llegado al archipiélago. En medio de la disputa, alguien roba páginas del diario de **Barbanegra** y las usa para buscar algo más que una ruta.
+El archipiélago atraviesa una tregua frágil. Ciudades piratas comercian entre sí mientras la Corona española expande su presencia desde San Martín. Su máximo jefe, el **Capitán General de la Armada Real de las Indias, Don Lautaro Cagna Montoya**, no busca negociar: quiere destruir la piratería y quedarse con las islas. Viene desde España y todavía no ha llegado al archipiélago. En medio de la disputa, alguien roba páginas del diario de **Barbanegra** y las usa para buscar algo más que una ruta.
 
 Los jugadores llegan a Bahía Serruchos buscando trabajo y terminan descubriendo que las páginas del diario de Barbanegra describen una red de señales y antiguos faros capaz de alterar corrientes, convocar tormentas y abrir rutas que deberían permanecer ocultas. La leyenda dice que Barbanegra no encontró esa red: hizo un pacto con algo que habita bajo el archipiélago y dejó en sus páginas la forma de despertarlo o someterlo. Si alguien reúne e interpreta todos los fragmentos, podría gobernar el mar; si interpreta mal el ritual, podría desatar una fuerza que trague las islas. Ante la amenaza de la Corona, las tripulaciones rivales tendrán que coordinarse de manera tácita para defender su hogar, sin fundar una nueva organización.
 
@@ -26,7 +26,7 @@ Red informal y dividida de capitanes, tripulaciones, comerciantes y puertos que 
 
 ### Corona Española
 
-Fuerza naval y administrativa que opera desde San Martín. Su jefe, el Capitán General de la Armada Real de las Indias Don Lautaro Montoya, viene desde España para destruir la piratería y apropiarse de las islas. Algunos oficiales descubren que sus órdenes amenazan también a la población.
+Fuerza naval y administrativa que opera desde San Martín. Su jefe, el Capitán General de la Armada Real de las Indias Don Lautaro Cagna Montoya, viene desde España para destruir la piratería y apropiarse de las islas. Algunos oficiales descubren que sus órdenes amenazan también a la población.
 
 **Presencia propuesta:** San Martín, Isla del Muerto y puestos de vigilancia.
 
@@ -182,13 +182,13 @@ Los grupos descubren que cada página describe una parte de un ritual: nombres d
 **Estado:** misión final de todo el servidor.
 **Inicio:** Isla del Muerto y el faro final.
 
-El **Capitán General de la Armada Real de las Indias, Don Lautaro Montoya**, viene desde España al frente de su flota para exterminar la piratería y quedarse con las islas. No apareció antes porque dirigía la campaña desde España y cruzaba el océano con refuerzos. Flavia rechaza las órdenes de proteger su desembarco, revela que Don Lautaro llegará a la hacienda de Isla del Muerto y desaparece antes de que arribe. La Almirante revela que es **Nyx Jana Bonny Aitara** y combate a la Corona, pero sigue disputándole a Andrés el control del Corazón de la Marea. Los piratas ya reconstruyeron el Sello de la Marea con los papeles de Barbanegra; al activarlo mientras la flota se acerca, corrientes falsas y niebla desvían muchos barcos españoles hacia arrecifes y los hacen naufragar. Por eso Don Lautaro alcanza la hacienda con pocos barcos de escolta.
+El **Capitán General de la Armada Real de las Indias, Don Lautaro Cagna Montoya**, viene desde España al frente de su flota para exterminar la piratería y quedarse con las islas. No apareció antes porque dirigía la campaña desde España y cruzaba el océano con refuerzos. Flavia rechaza las órdenes de proteger su desembarco, revela que Don Lautaro llegará a la hacienda de Isla del Muerto y desaparece antes de que arribe. La Almirante revela que es **Nyx Jana Bonny Aitara** y combate a la Corona, pero sigue disputándole a Andrés el control del Corazón de la Marea. Los piratas ya reconstruyeron el Sello de la Marea con los papeles de Barbanegra; al activarlo mientras la flota se acerca, corrientes falsas y niebla desvían muchos barcos españoles hacia arrecifes y los hacen naufragar. Por eso Don Lautaro alcanza la hacienda con pocos barcos de escolta.
 
 1. **«Una bandera para cada puerto»** — reunir tripulaciones rivales y habitantes para preparar la defensa común.
 2. **«El nombre tras el Velo»** — Nyx revela su identidad y ofrece su flota para derrotar a la Corona; deja claro que no renuncia a dominar las rutas.
 3. **«La última orden»** — Flavia revela la hacienda y el momento del desembarco de Don Lautaro, rechaza protegerlo y desaparece.
 4. **«La noche de los faros»** — misión de servidor: activar el Sello de la Marea reconstruido con los papeles de Barbanegra. El sello crea corrientes falsas y niebla; muchos barcos españoles se pierden y naufragan en los arrecifes antes de llegar a la hacienda.
-5. **«Ni corona ni cadenas»** — misión final de servidor en la hacienda de Isla del Muerto. Don Lautaro llega con pocos barcos de escolta. Todos los grupos pueden participar. El objetivo final es **derrotar y matar al Capitán General de la Armada Real de las Indias, Don Lautaro Montoya**; completar la misión solo cuando el jefe muera. Al morir, su ejército se desorganiza y la invasión fracasa.
+5. **«Ni corona ni cadenas»** — misión final de servidor en la hacienda de Isla del Muerto. Don Lautaro llega con pocos barcos de escolta. Todos los grupos pueden participar. El objetivo final es **derrotar y matar al Capitán General de la Armada Real de las Indias, Don Lautaro Cagna Montoya**; completar la misión solo cuando el jefe muera. Al morir, su ejército se desorganiza y la invasión fracasa.
 
 **Final canónico:** las tripulaciones vencen a Don Lautaro y detienen la conquista. La coordinación entre piratas queda tácita; cada capitán conserva su independencia. Nyx no renuncia a sus ambiciones y Andrés se niega a entregarle el mando. El Corazón de la Marea vuelve a quedar sellado bajo custodia compartida de los puertos. Flavia desaparece sin unirse a los piratas.
 
