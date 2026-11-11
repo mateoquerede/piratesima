@@ -1,0 +1,13 @@
+name = "Easy NPC: Config UI"
+filename = "easy_npc_config_ui-forge-1.20.1-7.18.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uTGjf7vA/versions/UdOZtKBV/easy_npc_config_ui-forge-1.20.1-7.18.0.jar"
+hash-format = "sha512"
+hash = "5ff3f1fc24399216160edef33ea8a6abd8b85335e0fb7eae11dc3559e67e13fd105e687c87e47af38ca76585aaa83b181ea205d992f40b26eef50c81aa648d21"
+
+[update]
+[update.modrinth]
+mod-id = "uTGjf7vA"
+version = "UdOZtKBV"

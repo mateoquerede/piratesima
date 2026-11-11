@@ -1,0 +1,13 @@
+name = "Kal's Grimdark Pirate Pack"
+filename = "Grimdark-Pirate-vip1-4-15.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38468d6f8d50e62bdfd6f4e530313f157ab03574"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4782733
+project-id = 629326

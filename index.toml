@@ -1,0 +1,214 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "a7fd2f5b6c173e0a6fe5aa0e49dbd7cb39821b052cee6441898ad58b6a1170a0"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "91dd1930d6f8f0054e16f699ad651a92d2f618455c6029bb5f74a3db35bd46de"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "a8608bc324cd28cbf2a6d0332f806987f7b770ff0aac3e24750d4b37ad01ca71"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "12bef71657c428616ab81aced4a23beb19b3b7fd64ae6092c175a8df86f1edce"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e5206ecaa7deacbdb38d292be484bd584bac736d1bed2fb20289020a65a7f132"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "5c53b040991be07f2fffd63943bfbb9b6a570a0141b8632f6f01063d06067d3f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "dd7c74c71d3facf74a684055b546cef5430b06b18dfe85cf8761b61ee9c92881"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7b2cc450f553b82439ae9422b8c2b4406dae1af3c48f7ce791a3576acff1d122"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "0ae8ea8f2680deb033b40b89c90bf3921bd37224ec6f8c3ec2f326553619f74f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b38d43feb83d6b23059e2eab0d0fc04378564c538817d1e73339d32e5937bca9"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "b3663eb41c7a97e5b2a107cf824e493488e00e11bc21ef14b8742b9cc59e9cd4"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "97a0aa0bfbad2bc5ae3e3454033df72c54b0e3ad45b95ecde451804a77a9eb0b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1d91722d7d88c3a28b16589eaa61271c4a0ddcc9306c799e5283a6ac024e5534"
+metafile = true
+
+[[files]]
+file = "mods/more-player-models.pw.toml"
+hash = "dfacc21c62f9a972e1de07a3438c8a2b774f46d3bfbbf1bdf83c5c9af49d24ef"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f5bb6f843492ecc0e5f78ea627701e8c1df761a460dbeeab4fd095cd9882c59e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "05c5ebbf01518b99f390154362f404049e19d9306ebee2a564b202129a3519fe"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-pirates.pw.toml"
+hash = "7fde23624f03602de59192669a8735e7ef810335c304a7b3c94bb3d44530b4f2"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "0f52cf65f6deb25a1c887c6791267c78856fb1080051d0866bd627d7bbe6f137"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
+metafile = true
+
+[[files]]
+file = "mods/vlib.pw.toml"
+hash = "bf329320b5ba7fd501bc27a9973f86a4c44f85903e29cdc5e0e914cb158e1fa2"
+metafile = true
+
+[[files]]
+file = "mods/vmod.pw.toml"
+hash = "e4ad22b8dae0abbca777f71daaf171e4a88754aa407136e9c7327923d7f0334e"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "8669708ff6478c72e7c5aa8c25c66e8178bbb316a684b86505fc986631eae6a3"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "810c63c5de675c9cb2f29c4e63231ae4d35d83f906d3279ac5c7a83132fe387c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7f87fe777d2f09bf5f19f06dc69b60023bc8caf34cba74ab6b62005cf184b348"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5290b1a5c4624ba20a080385052eb55cfdc42170dfc5cd5aeecd570115d5f947"
+metafile = true
+
+[[files]]
+file = "resourcepacks/grimdark-pirate.pw.toml"
+hash = "48ef5b55a2356fcd613489c834ad8d5c3393c103cecaa21b4109281439390968"
+metafile = true
+
+[[files]]
+file = "resourcepacks/latrecima-npc-skin/assets/latrecima/textures/entity/nicolas_londero.png"
+hash = "647ab289d1a60d267c8f80a38c60424f14c08e49ac176c0a13f09de59e98a3b2"
+
+[[files]]
+file = "resourcepacks/latrecima-npc-skin/pack.mcmeta"
+hash = "c6dce6256ebfb7c55bd18bdca10c6f08a1bb16dcab13c0b2b18229d06d203376"

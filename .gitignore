@@ -1,0 +1,14 @@
+# Original world, editable copy, and backups are large local assets.
+/backups/
+/world/
+
+# Keep only the NPC datapack source from the development world.
+/world-dev/*
+!/world-dev/datapacks/
+/world-dev/datapacks/*
+!/world-dev/datapacks/latrecima_npcs/
+!/world-dev/datapacks/latrecima_npcs/**
+
+# Server installation, libraries, mods, and generated state.
+/server-test/*
+!/server-test/README.md

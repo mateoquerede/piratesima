@@ -1,0 +1,74 @@
+{
+  PresetMetadata:{
+    author:"LaTrecima",
+    category:"Bienvenida",
+    description:"Nicolas Londero da la bienvenida a Bahía Serruchos una sola vez a cada jugador.",
+    entityTypeId:"easy_npc:humanoid",
+    name:"Nicolas Londero",
+    variantType:"STEVE",
+    version:"1.0.0"
+  },
+  data:{
+    ActionData:{
+      ActionEventSet:{
+        ON_INTERACTION:[{
+          Type:"OPEN_DEFAULT_DIALOG"
+        }]
+      }
+    },
+    ArmorItems:[{},{},{},{}],
+    CustomName:'{"color":"#D9A441","text":"Nicolas Londero"}',
+    CustomNameVisible:1b,
+    DialogData:{
+      DialogDataSet:[{
+        Conditions:[{
+          SubType:"LIFETIME",
+          Type:"EXECUTION_LIMIT",
+          Value:1
+        }],
+        Label:"first_visit",
+        Name:"Primera bienvenida",
+        Priority:10,
+        Texts:[{
+          Text:"¡Bienvenido a Bahía Serruchos, @initiator! Que el viento te sea favorable y el mar te abra camino."
+        }]
+      },{
+        Label:"default",
+        Name:"Bienvenida de vuelta",
+        Priority:5,
+        Texts:[{
+          Text:"¿Otra vez vos por acá? Dejá dormir carajo"
+        }]
+      }],
+      Type:"CUSTOM"
+    },
+    AnimationData:{
+      Behavior:"NONE"
+    },
+    EasyNPCVersion:3,
+    HandItems:[{},{}],
+    ModelData:{
+      Pose:"DEFAULT",
+      PoseName:"easy_npc:pose/humanoid/sleeping"
+    },
+    ObjectiveData:{
+      ObjectiveDataSet:[{
+        Type:"LOOK_AT_PLAYER"
+      },{
+        Type:"LOOK_AT_MOB"
+      },{
+        Type:"LOOK_AT_RESET"
+      }]
+    },
+    PersistenceRequired:1b,
+    SkinData:{
+      Texture:"latrecima:textures/entity/nicolas_londero.png",
+      Type:"RESOURCE_LOCATION"
+    },
+    Status:{
+      finalized:1b
+    },
+    VariantType:"STEVE",
+    id:"easy_npc:humanoid"
+  }
+}
